@@ -1,0 +1,1 @@
+kaggle competitions submit -c sofia-ml-regression-2026-spring -f $1 -m "$2"
