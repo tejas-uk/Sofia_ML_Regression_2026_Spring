@@ -12,9 +12,6 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Processed data & model artifacts
-processed/
-
 # Submissions
 submission*.csv
 
